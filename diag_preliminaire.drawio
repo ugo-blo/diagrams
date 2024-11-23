@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.9">
   <diagram name="Page-1" id="eu4nlycGCcAG79QWP7Ku">
-    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,12 +224,73 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVe_eLRL-p_i7-8KbHK7-51" value="moy. Ne" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;entryX=0.331;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JVe_eLRL-p_i7-8KbHK7-5">
-          <mxGeometry x="-0.3335" y="19" relative="1" as="geometry">
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-51" value="&lt;div&gt;moy. Ne&lt;/div&gt;&lt;div&gt;moy. Nf&lt;/div&gt;&lt;div&gt;Pv&lt;/div&gt;&lt;div&gt;Tv&lt;/div&gt;&lt;div&gt;moy. Te&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JVe_eLRL-p_i7-8KbHK7-5" target="JVe_eLRL-p_i7-8KbHK7-8">
+          <mxGeometry x="-0.3529" y="8" relative="1" as="geometry">
             <mxPoint x="270" y="331" as="sourcePoint" />
-            <mxPoint x="503" y="395" as="targetPoint" />
+            <mxPoint x="650" y="340" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="610" y="340" width="5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-54" value="Te" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.446;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JVe_eLRL-p_i7-8KbHK7-7" target="JVe_eLRL-p_i7-8KbHK7-5">
+          <mxGeometry x="-0.3529" y="8" relative="1" as="geometry">
+            <mxPoint x="590" y="422" as="sourcePoint" />
+            <mxPoint x="710" y="440" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="600" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-55" value="Vf3" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-56" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVe_eLRL-p_i7-8KbHK7-55" target="JVe_eLRL-p_i7-8KbHK7-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="350" as="sourcePoint" />
+            <mxPoint x="635" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-57" value="O/Omoyenne/F" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="110" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-59" value="&lt;div&gt;Ve2&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="770" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-60" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVe_eLRL-p_i7-8KbHK7-59" target="JVe_eLRL-p_i7-8KbHK7-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="1020" as="sourcePoint" />
+            <mxPoint x="545" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-61" value="F/O" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="730" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-62" value="&lt;div&gt;Ve2&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="770" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-63" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVe_eLRL-p_i7-8KbHK7-62" target="JVe_eLRL-p_i7-8KbHK7-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="505" y="780" as="sourcePoint" />
+            <mxPoint x="630" y="714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-64" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JVe_eLRL-p_i7-8KbHK7-65" target="JVe_eLRL-p_i7-8KbHK7-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="760" as="sourcePoint" />
+            <mxPoint x="625" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-65" value="&lt;div&gt;Ve2&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="770" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-66" value="F/O" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JVe_eLRL-p_i7-8KbHK7-67" value="F/O" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="720" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
