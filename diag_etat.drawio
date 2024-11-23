@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.9">
   <diagram name="Page-1" id="1m31W9dz_q5d56Bh4lMf">
-    <mxGraphModel dx="1235" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -278,6 +278,74 @@
               <mxPoint x="770" y="700" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-76" value="E0" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="324" y="810" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="x41707SCQYTRa3K3wB5_-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="920" as="sourcePoint" />
+            <mxPoint x="364" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-78" value="start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-79" value="E1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="324" y="920" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-80" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x41707SCQYTRa3K3wB5_-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="890" as="sourcePoint" />
+            <mxPoint x="460" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-81" value="Signal panneau de controle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="927.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-82" value="N &amp;lt; N2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-83" value="N &amp;gt; N2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-84" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x41707SCQYTRa3K3wB5_-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="1060" as="sourcePoint" />
+            <mxPoint x="490" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-85" value="E2" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1060" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-87" value="Envoyer alarme" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1075" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x41707SCQYTRa3K3wB5_-79" target="x41707SCQYTRa3K3wB5_-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="950" as="sourcePoint" />
+            <mxPoint x="490" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="950" />
+              <mxPoint x="220" y="1170" />
+              <mxPoint x="354" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-90" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.759;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x41707SCQYTRa3K3wB5_-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1000" as="sourcePoint" />
+            <mxPoint x="381" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1000" />
+              <mxPoint x="410" y="1000" />
+              <mxPoint x="430" y="990" />
+              <mxPoint x="440" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x41707SCQYTRa3K3wB5_-91" value="Mesure CO2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="980" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
